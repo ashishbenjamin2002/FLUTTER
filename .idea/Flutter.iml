@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/GotoPage/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/GotoPage/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/GotoPage/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ImageView/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ImageView/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ImageView/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Text/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Text/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Text/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ashish_b/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ashish_b/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ashish_b/Text/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ashish_b/Text/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ashish_b/Text/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ashish_b/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test_project/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/test_project/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test_project/build" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled/build" />
+      <excludeFolder url="file://$MODULE_DIR$/workingsharedpref/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/workingsharedpref/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/workingsharedpref/build" />
+      <excludeFolder url="file://$MODULE_DIR$/workingwithjson/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/workingwithjson/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/workingwithjson/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
