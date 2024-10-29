@@ -57,7 +57,7 @@ class _ElevatedButtonExampleState extends State {
         mainAxisSize: MainAxisSize.min,
         children: [
 
-          Center(
+          const Center(
             child: Text('Log In Form', textAlign: TextAlign.center),
           ),
           const SizedBox(height: 10),

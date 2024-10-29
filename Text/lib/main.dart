@@ -6,6 +6,8 @@ void main() {
 }
 
 class MyApp extends StatefulWidget {
+  const MyApp({super.key});
+
   @override
   _MyAppState createState() => _MyAppState();
 }
@@ -34,10 +36,10 @@ class _MyAppState extends State {
       theme: ThemeData(primarySwatch: Colors.green),
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Reading Data from File...'),
+          title: const Text('Reading Data from File...'),
         ),
         body: Container(
-            padding: EdgeInsets.only(top: 10.0,left: 50.0,right: 50.0, bottom: 10.0),
+            padding: const EdgeInsets.only(top: 10.0,left: 50.0,right: 50.0, bottom: 10.0),
 
             child: Text(_fileContents,textAlign:TextAlign.left,)
 

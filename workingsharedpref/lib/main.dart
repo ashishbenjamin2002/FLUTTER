@@ -58,7 +58,7 @@ class _ElevatedButtonExampleState extends State {
         mainAxisSize: MainAxisSize.min,
         children: [
 
-          Center(
+          const Center(
             child: Text('Save Data', textAlign: TextAlign.center),
           ),
           const SizedBox(height: 10),
@@ -113,7 +113,7 @@ class _ElevatedButtonExampleState extends State {
 
                     return AlertDialog(
                       title: const Text('Navarchana University'),
-                      content: Text('${sname}'),
+                      content: Text('$sname'),
 
                       actions: [
                         TextButton(
@@ -143,7 +143,7 @@ class _ElevatedButtonExampleState extends State {
 
                     return AlertDialog(
                       title: const Text('Navarchana University'),
-                      content: Text('Value is Cleared'),
+                      content: const Text('Value is Cleared'),
 
                       actions: [
                         TextButton(
